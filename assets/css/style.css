@@ -18,3 +18,11 @@ footer {
   height: 10%;
 }
 
+.card {
+  background-color: #eef5e7;
+}
+
+.button {
+  background-color: rgb(63, 177, 129);
+  color: antiquewhite
+}
