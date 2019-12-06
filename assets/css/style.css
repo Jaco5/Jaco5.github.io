@@ -5,7 +5,7 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background-color: #87abc0
+  background-color: #c3def0
 }
 header {
   margin-bottom: 5%;
@@ -18,15 +18,31 @@ footer {
   height: 10%;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #b5cedf;
+}
 .card {
-  background-color: #eef5e7;
+  background-color: #b5cedf;
+  margin-bottom: 2.5%;
 }
 
 .button {
-  background-color: rgb(63, 177, 129);
-  color: antiquewhite
+  background-color: #90a6b4;
+  color: rgb(41, 47, 53);
+  margin-bottom: 1%;
 }
 
+.contactform {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  justify-content: center;
+  background-color: #b5cedf;
+  margin-bottom: 2.5%;
+  margin-top: 2.5%;
+}
 /* .portfolioTitle {
   
 } */
