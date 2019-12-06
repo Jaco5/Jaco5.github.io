@@ -18,11 +18,11 @@ footer {
   height: 10%;
 }
 
-.container {
+/* .container {
   display: flex;
   justify-content: center;
   background-color: #b5cedf;
-}
+} */
 .card {
   background-color: #b5cedf;
   margin-bottom: 2.5%;
